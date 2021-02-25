@@ -13,7 +13,7 @@
 ### App Walkthrough GIF
 
 
-<img src="YOUR_GIF_URL_HERE" width=250><br>
+![](https://i.imgur.com/ICl7RYv.gif)
 
 ### Notes
 A big challenge was that my xcode kept on crashing and my worspace wasn't being able to be accessed. It took me a bit of time but I got it fixed.
